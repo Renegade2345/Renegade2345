@@ -1,10 +1,10 @@
 - 👋 Hi, I'm Arpit aka Renegade
-- 👀 I’m interested in almost everything. But mainly I deal with full stack, data analysis and Machine Learning. Other elements like DSA,    oops!, Computer network and System design are ofcourse inclusive.
+- 👀 I deal with full stack(backend aligned), data analysis and Machine Learning. Other elements like DSA,    oops!, Computer network and System design are ofcourse inclusive.
 - 🌱 I’m currently learning "The Arte of Computere Programme-Craftinage".
 - 💞️ I’m looking to collaborate on whatever you are working on. Feel free to reach out.
-- 📫 How to reach me- singharpit.asb@gmail.com. There you go!
+- 📫 How to reach me- singharpit.asb@gmail.com. 
 - ⚡ Fun fact: I'm into cars and almost every combat and endurance sport.
-- PS- avoid the emojis and FOCUS!
+
 
 
 
