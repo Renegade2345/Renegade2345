@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Arpit 
-- 👀 I deal with full stack(backend aligned), data analysis and Machine Learning. Other elements like DSA,    OOPS, Computer network and System design are ofcourse inclusive.
+- 👀 I deal with full stack(backend aligned) and open source. Other elements like DSA,    OOPS, Computer network and System design are ofcourse inclusive.
 - 🌱 I’m currently learning "The Arte of Computere Programme-Craftinage".
 - 💞️ I’m looking to collaborate on whatever you are working on. Feel free to reach out.
 - 📫 How to reach me- singharpit.asb@gmail.com. 
