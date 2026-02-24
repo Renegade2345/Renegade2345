@@ -1,10 +1,13 @@
-- 👋 Hi, I'm Arpit 
-- 👀 I deal with full stack(backend aligned) and open source. Other elements like DSA,    OOPS, Computer network and System design are ofcourse inclusive.
-- 🌱 I’m currently learning "The Arte of Computere Programme-Craftinage".
-- 💞️ I’m looking to collaborate on whatever you are working on. Feel free to reach out.
-- 📫 How to reach me- singharpit.asb@gmail.com. 
-- ⚡ Fun fact: I'm into cars and almost every combat and endurance sport.
+Arpit Singh
+Backend-Focused Full-Stack Engineer
 
+Building scalable backend systems and distributed infrastructure.
+
+Areas: Backend Engineering • System Design • Distributed Systems • DSA • Networking  
+
+Open to: Backend and infrastructure collaboration  
+
+Email: singharpit.asb@gmail.com
 
 
 
