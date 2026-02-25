@@ -18,6 +18,22 @@ Email: singharpit.asb@gmail.com
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Renegade2345&theme=shadow_red&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Renegade2345&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
+
+
+## Activity Graph
+[![Arpit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Renegade2345&theme=github-compact)](https://github.com/Renegade2345)
+
+---
+
+## GitHub Stats
+![Arpit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Renegade2345&show_icons=true&theme=tokyonight)
+
+---
+
+## Languages Used
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Renegade2345&layout=compact&theme=tokyonight)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
 
