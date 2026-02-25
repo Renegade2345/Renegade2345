@@ -22,7 +22,7 @@ Email: singharpit.asb@gmail.com
 
 
 ## Activity Graph
-[![Arpit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Renegade2345&theme=github-compact)](https://github.com/Renegade2345)
+[![Arpit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Renegade2345&theme=nord)](https://github.com/Renegade2345)
 
 ## Contribution Snake
 
